@@ -25,3 +25,5 @@ python list_to_model.py
 ```shell
 python model_for_0-120.py
 ```
+
+**注意**："中文糖尿病标注数据集.zip" 是比赛结束后官方给出的数据集。
